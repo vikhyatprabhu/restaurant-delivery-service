@@ -41,7 +41,6 @@ Please change the following parameters to test for different load
  'ORDER_REMOVE_FROM_SHELF', 'ORDER_DELIVERED' etc.
  - Fix Checkstyle errors in the application
 
-
  # CODE COVERAGE
 
  ![CodeCoverage](CodeCoverage.png)
