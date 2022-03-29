@@ -35,7 +35,6 @@ Please change the following parameters to test for different load
  - CloudKitchenShelfManager currently manages shelves with different temperatures , but this could be further extended to have different category of shelves based on other properties which implement the Property interface
 
 
-
 # Further improvements
 
  - Logging currently happens in place but this can be outsourced to a class which has specific messages for different events like 'ORDER_ADD_TO_SHELF',
